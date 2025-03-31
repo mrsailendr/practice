@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.landmarkshops.atp.controllers&apos; to &apos;LMGGoogleBigQueryManager/src/main/java&apos;&#x0A;- Original project: &apos;RestATPApis&apos;&#x0A;- Destination element: &apos;LMGGoogleBigQueryManager/src/main/java&apos;&#x0A;- Original element: &apos;RestATPApis/src/main/java/com.landmarkshops.atp.controllers&apos;" description="Copy package" destination="=LMGGoogleBigQueryManager/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.landmarkshops.atp.controllers" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1621840823145" version="1.0"/>
+</session>

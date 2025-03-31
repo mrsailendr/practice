@@ -1,0 +1,18 @@
+
+q
+java:S1854"9Remove this useless assignment to local variable "index".(–Œó×ûÿÿÿÿ8€«ƒ Ş0HïhRMAJORZ
+CODE_SMELL
+b
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8€«ƒ Ş0HğhRMINORZ
+CODE_SMELL
+U
+java:S1659
+""Declare "rmax" on a separate line.(âœğÀ8€«ƒ Ş0HóhRMINORZ
+CODE_SMELL
+\
+java:S1481
+")Remove this unused "rmax" local variable.(âœğÀ8€«ƒ Ş0HõhRMINORZ
+CODE_SMELL
+b
+java:S1481"*Remove this unused "index" local variable.(–Œó×ûÿÿÿÿ8€«ƒ Ş0H÷hRMINORZ
+CODE_SMELL

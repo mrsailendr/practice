@@ -1,0 +1,11 @@
+
+k
+java:S1854"7Remove this useless assignment to local variable "map".b 1b81bfed1437e759a51fdede2c3bf25fh
+f
+java:S1135"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+2
+java:S1220""Move this file to a named package.h
+^
+java:S1197	"*Move the array designators [] to the type.b f0ff4deb6b15e321119745ccfd082053h
+\
+java:S1481"(Remove this unused "map" local variable.b 1d78dc8ed51214e518b5114fe24490aeh

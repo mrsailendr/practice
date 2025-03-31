@@ -1,0 +1,34 @@
+
+ç
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").b 877a5479e9b6497e071f71a6468e75bah
+é
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").b 877a5479e9b6497e071f71a6468e75bah
+é
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").b 877a5479e9b6497e071f71a6468e75bah
+î
+java:S1488H"`Immediately return this expression instead of assigning it to the temporary variable "diameter".b e140c10e71d415b904bbd26f4f357c35h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 3b0c14770e6bd663518496da60f524dah
+{
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".b ebca3fd6f2b8478c6cc05ad37784b87dh
+{
+java:S3973O"GUse indentation to denote the code conditionally executed by this "if".b ebca3fd6f2b8478c6cc05ad37784b87dh
+Ö
+java:S1149É"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".b 946cb12b692d4ede3e4195096f6bb53dh
+f
+java:S1135"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+f
+java:S1135("2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+^	java:S106-"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S1068"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+f
+java:S1135?"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+f
+java:S1135N"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+^	java:S106i"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106s"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106y"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+g
+java:S1135Ä"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+_	java:S106î"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+f
+java:S1128"2Remove this unused import 'LinkedList.LinkedList'.b 7042c4efeeed25e70b179deedd0ab2fah

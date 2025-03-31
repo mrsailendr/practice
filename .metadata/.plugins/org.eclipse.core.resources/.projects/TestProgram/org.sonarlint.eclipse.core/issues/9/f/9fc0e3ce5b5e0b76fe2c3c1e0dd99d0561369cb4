@@ -1,0 +1,4 @@
+
+Ñ
+java:S1104"PMake root a static final constant or non-public and provide accessors if needed.b 63a9f0ea7bb98050796b649e85481845h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 3b0c14770e6bd663518496da60f524dah
